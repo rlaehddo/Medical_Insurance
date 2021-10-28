@@ -1,5 +1,5 @@
 ---
-output: github_document
+output: html_document
 
 ---
 
@@ -15,7 +15,7 @@ The dataset contains the information and charges paid by a particular medical in
 Each primary beneficiary contains the following 7 variables: 
 
 Variable |  Description  | Type 
---------------|--------------|-------------------------------------------------------------------------------------------------------
+--------------|--------------|--------------------
 **age** |  age of beneficiary (in years)  |  Continuous 
 **sex** |  sex of beneficiary (male or female)   | Categorical 
 **bmi** |  body mass index (body mass in kilograms divided by the square of body height in meters)  | Continuous 
